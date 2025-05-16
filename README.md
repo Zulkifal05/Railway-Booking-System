@@ -9,4 +9,6 @@ It uses file handling for data storage & reading Data.
 The file TrainTimings.txt contains timings of Trains and two More files Bookings.txt &
 Users.txt stores bookings & Registered Users info respectively.
 <br>
+It generates ticket files (.txt files) when a booking is done.
+<br>
 The structure of data storage in .txt files is explained in FilesInfo.txt file.
