@@ -1,0 +1,21 @@
+This file contains information about how the data is stored in three files 
+used for data storage in this project (Railway Booking System) i.e Users.txt , TrainTimings.txt &
+Bookings.txt. So in this format data is stored in each file:
+
+" Users.txt "
+This contains one record in a line and each line has CNIC & Password of 
+registered users as:
+CNIC Password
+
+" TrainTimings.txt " 
+This file contains one record in a line and each file contains information
+about trins i.e Train No , Departure place , Destination , Time of departure (In hrs)
+& Train name as :
+TrainNo DeparturePlace Destination Time(hrs) TrainName Price
+
+" Bookings.txt "
+This file contains bookings one record in a line and each line contains 
+information about bookings i.e CNIC , Train Number , Train Departure ,
+Train Destination & Train Time as :
+CNIC TrainNumber TrainDeparture TrainDestination TrainName TrainTime(hrs)
+
